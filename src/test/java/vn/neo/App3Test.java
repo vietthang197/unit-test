@@ -1,4 +1,4 @@
-package vn.neo.json;
+package vn.neo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
